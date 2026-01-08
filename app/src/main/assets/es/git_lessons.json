@@ -83,7 +83,7 @@
           "StepNumber": 1,
           "Description": "¿Qué es una rama de Git?",
           "Example": "",
-          "Explanation": "A Git branch is a separate line of development that allows you to work on different parts of your project without affecting the main codebase.\n\nThis is particularly useful for collaboration and managing multiple features, bug fixes, or experiments simultaneously.\n\nBranches help isolate changes, making it easier to review, test, and integrate them back into the main codebase."
+          "Explanation": "Una rama de Git es una linea de desarrollo separada que le permite trabajar en diferentes partes de su proyecto sin afectar la base de código principal.\n\nEsto es particularmente útil para la colaboración, y la gestión de múltiples funcionalidades, la corrección de errores, o experimentos simultáneamente.\n\nLas ramas ayudan a aislar los cambios, haciendo que sea más fácil de revisar, probar, e integrar a la base de código."
         },
         {
           "StepNumber": 2,
